@@ -61,7 +61,11 @@ Frontend Deployment
 
 You can view the deployed frontend application on Netlify at the following link:
 
-Frontend Link
+https://fooddelivery12345.netlify.app/
+
+https://food-delivery-admin1234.netlify.app/
+
+
 Assumptions Made / Challenges Faced
 
     Assumptions:
